@@ -6,7 +6,7 @@ Este repositorio es parte de [**JWT Learning Kit**](https://jwtlk.fedeholc.ar), 
 
 Ya sea por motivos de seguridad o interés económico, se suele recomendar el uso de librerías y servicios de autenticación de terceros. Pero en términos de aprendizaje es muy valioso implementar un sistema de autenticación desde cero: permite comprender cómo funciona de conjunto y cuál es la complejidad inherente al problema que se quiere resolver. Además, en el proceso se aprende sobre cookies, sesiones, tokens, cifrado, hashing, etc.
 
-En la guía están las explicaciones del código y de los procesos y conceptos necesarios para comprender e implementar un sistema sistema de autenticación basado en JWT.
+En la guía están las explicaciones del código y de los procesos y conceptos necesarios para comprender e implementar un sistema de autenticación basado en JWT.
 
 El código de este repo es el de la documentación. La guía completa la podés leer en dentro del directorio `docs`, pero es mejor si lo hacés acá: [https://jwtlk.fedeholc.ar](https://jwtlk.fedeholc.ar).
 

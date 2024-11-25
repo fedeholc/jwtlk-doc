@@ -15,7 +15,7 @@ La autenticación y la seguridad web en general es un campo crítico y de vital 
 
 Ya sea por motivos de seguridad o interés económico, se suele recomendar el uso de librerías y servicios de autenticación de terceros. Sin embargo, creo que en términos de aprendizaje es muy valioso intentar implementar un sistema de autenticación desde cero (al menos una vez en la vida). Es una experiencia que permite comprender cómo funciona de conjunto y cuál es la complejidad inherente al problema que se quiere resolver. Además, en el proceso se aprende sobre diversos temas vinculados al desarrollo web, tales como cookies, sesiones, tokens, cifrado, hashing, etc.
 
-En esta guía encontraran entonces las explicaciones de los procesos y conceptos necesarios para comprender el funcionamiento y la puesta en práctica de un sistema sistema de autenticación relativamente simple (pero funcional), basado en JSON Web Token (JWT). Se incluye también el [código fuente](https://www.github.com/fedeholc/jwtlk/) completo del módulo de autenticación de una aplicación que utilizaremos como ejemplo.
+En esta guía encontraran entonces las explicaciones de los procesos y conceptos necesarios para comprender el funcionamiento y la puesta en práctica de un sistema de autenticación relativamente simple (pero funcional), basado en JSON Web Token (JWT). Se incluye también el [código fuente](https://www.github.com/fedeholc/jwtlk/) completo del módulo de autenticación de una aplicación que utilizaremos como ejemplo.
 
 El frontend de la aplicación esta desarrollado en vanilla JavaScript. El backend en Node y Express. La base de datos es SQLite. El código está documentado con JSDoc.
 
